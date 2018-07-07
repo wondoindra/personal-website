@@ -1,0 +1,17 @@
+body{
+	font-family: 'Song Myung', serif;
+	background: rgba(242, 238, 31, 0.6);
+}
+
+.cover-image{
+	width: 50%;
+}
+
+.cover-text{
+	padding-top: 30px;
+}
+
+.jumbotron{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
